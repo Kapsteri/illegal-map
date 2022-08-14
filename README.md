@@ -5,7 +5,7 @@ Last Updated: July 18
 If you find a bug or want to make a suggestion, then join my Discord server: https://discord.gg/pykzREcAuZ
 
 Warning: This module is bannable. Use at own risk.
-If you find any bugs or have suggestions for new features then DM me on Discord: Unclaimed#6151. I will not consider adding features that are too cheaty, pointless or are just unrelated to this module.
+If you find any bugs or have suggestions for new features then DM me on Discord: Kapsteri#2022. I will not consider adding features that are too cheaty, pointless or are just unrelated to this module.
 
 Installation
 
