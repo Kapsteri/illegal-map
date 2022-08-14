@@ -7,7 +7,7 @@ If you find a bug or want to make a suggestion, then join my Discord server: htt
 
 ## Warning: This module is bannable. Use at own risk.
 
-If you find any bugs or have suggestions for new features then DM me on Discord: Unclaimed#6151.
+If you find any bugs or have suggestions for new features then DM me on Discord: Kapsteri#2022.
 **I will not consider adding features that are too cheaty, pointless or are just unrelated to this module.**
 
 <details>
