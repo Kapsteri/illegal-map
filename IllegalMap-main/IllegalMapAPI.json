@@ -1,0 +1,8 @@
+{
+    "moduleName": "IllegalMap",
+    "latestVersion": "5.0.1",
+    "author": "UnclaimedBloom6",
+    "changelog": [
+        "Fixed error when rendering player names"
+    ]
+}
